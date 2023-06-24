@@ -5,7 +5,6 @@ With TailwindCSS integration
 
 <img src="images/Get Started with ReactJS 2023_fis.png"/>
 
-
 You will need:
 - Node
 - Node Package Manager (NPM)
@@ -16,15 +15,13 @@ Finished Links:
 
 ## **[What is React?](https://react.dev/)**  
 
-
 ## **[1. Download Node](https://nodejs.org/en/download/current)**
 
 You can decide whether to install the Current or LTS (Long Term Support) versions. I have found both work just as well for use cases I have worked on thus far. 
 
 Download Node for you Operating system.
 
-Follow all default configuration with Node.js SetUp.. meaning you don't need to uncheck or check anything.. leave all as is. 
-
+Follow all default configuration with Node.js Setup... meaning you don't need to uncheck or check anything... leave all as is. 
 
 ## **2. Confirm Node & NPM & NPX Installation**
 
@@ -33,7 +30,7 @@ Before creating our react app, we will confirm both node and npm are installed o
 I am working in VSCode to develop this. 
 [Download VS Code](https://code.visualstudio.com/)
 
-Start a New Powersell Terminal in VS Code
+Start a New PowerShell Terminal in VS Code
 
 <img src="images/reactjsstart_terminal_vscode.png"/>
 
@@ -58,7 +55,7 @@ npx -v
 
 ## **3. Building React App**
 
-We will use NPX that is bundled with NPM to execute packages for us.. it installs react, react-dom and react scripts for us.  
+We will use NPX that is bundled with NPM to execute packages for us... it installs react, react-dom and react scripts for us.  
 Any further packages we want to install will be managed by NPM i.e you and I.
 
 Run the below command and wait some time for NPX to finish executing it shouldn't take longer than 2 - 3 minutes. 
@@ -84,9 +81,7 @@ npm start
 http://localhost:3000/ should have automatically opened after running the above command.
 <img src="images/reactlanding.png"/>
 
-
 ## **[4. Installing TailwindCSS](https://tailwindcss.com/docs/installation)**
-
 
 Ensure all following commands are run in the working directory of your react app
 
@@ -122,7 +117,6 @@ Add the @tailwind directives for each of Tailwind’s layers to your main CSS fi
 @tailwind utilities;
 ```
 
-
 ## **[5. CSS Demo](https://tailwindcss.com/docs/installation)**
 
 To build the following I installed 1 extra package, react-router-dom to handle routing in the app. 
@@ -140,3 +134,5 @@ Thanks for reading.
 
 ---
 <!-- DONE -->
+
+
